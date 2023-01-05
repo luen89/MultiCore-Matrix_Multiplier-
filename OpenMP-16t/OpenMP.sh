@@ -1,0 +1,25 @@
+
+cd OMP_double_2c-16t
+bash ScriptOMP.sh
+cd -
+cd OMP_double_4c-16t
+bash ScriptOMP.sh
+cd -
+cd OMP_float_2c-16t
+bash ScriptOMP.sh
+cd -
+cd OMP_float_4c-16t 
+bash ScriptOMP.sh
+cd -
+cd OMP_int_2c-16t
+bash ScriptOMP.sh
+cd -
+cd OMP_int_4c-16t
+bash ScriptOMP.sh
+cd -
+cd OMP_long_2c-16t
+bash ScriptOMP.sh
+cd -
+cd OMP_long_4c-16t
+bash ScriptOMP.sh
+cd -
